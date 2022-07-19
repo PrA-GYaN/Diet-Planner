@@ -1,0 +1,28 @@
+Apple 81
+Banana 105
+Bagel 165
+Biscuit 103
+Breadsticks 77
+Bread 61
+Beans 108
+Carrot31
+Corn89
+Cereal 110
+Cookie 62
+Cornbread 178
+Grapes 114
+Orange  65
+Peas 63
+Potato 220
+Pizza 290
+Popcorn 26
+Pear 98
+Pineapple 77
+Raisins 302
+Raspberries 61
+Rice 223
+Strawberries 45
+Sweet-Potato 118
+Spaghetti 159
+Waffles 130
+Watermelon 50
